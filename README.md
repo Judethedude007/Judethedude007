@@ -55,8 +55,8 @@
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=Judethedude007&style=for-the-badge&color=brightgreen&label=Profile+Views&labelColor=000000" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Judethedude007?style=for-the-badge&color=blue&label=Followers&labelColor=000000" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Judethedude007?style=for-the-badge&color=yellow&label=Total+Stars&labelColor=000000" alt="Stars" />
+<img src="https://img.shields.io/github/followers/Judethedude007?style=for-the-badge&color=blue&label=Followers&labelColor=000000&v=1" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Judethedude007?style=for-the-badge&color=yellow&label=Total+Stars&labelColor=000000&v=1" alt="Stars" />
 
 </div>
 
@@ -114,15 +114,15 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Judethedude007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=15" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Judethedude007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=15&v=1" alt="GitHub Stats" />
     </td>
     <td style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judethedude007&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judethedude007&theme=tokyonight&hide_border=true&border_radius=15&v=1" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judethedude007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&border_radius=15" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judethedude007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&border_radius=15&v=1" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Judethedude007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&border_radius=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Judethedude007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&border_radius=15&v=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -220,11 +220,15 @@ const JudeThomas = {
 
 ---
 
-## 🎮 GitHub Contribution Stats
+## 📊 Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Judethedude007&theme=tokyonight&hide_border=true&layout=compact&border_radius=15" alt="Coding Activity" />
+<!-- GitHub Commits Chart (Alternative to WakaTime) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Judethedude007&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&border_radius=15&v=1" alt="GitHub Activity" />
+
+<!-- If you have WakaTime configured properly, uncomment below and comment above -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Judethedude007&theme=tokyonight&hide_border=true&layout=compact&border_radius=15" alt="WakaTime Activity" /> -->
 
 </div>
 
