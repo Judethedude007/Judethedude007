@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 </div>
-
 ---
 
 ## 🚀 About Me
@@ -172,6 +171,15 @@
 ---
 
 ## 🐍 Contribution Snake
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Judethedude007/Judethedude007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Judethedude007/Judethedude007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Judethedude007/Judethedude007/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <div align="center">
   
