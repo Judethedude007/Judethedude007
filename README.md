@@ -37,7 +37,7 @@
 <a href="mailto:judethomas2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail" style="margin: 5px; border-radius: 10px;" />
 </a>
-<a href="https://judethedude007.github.io/Portfolio/" target="_blank">
+<a href="https://judethedude007.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35&color=FF6B35" alt="Portfolio" style="margin: 5px; border-radius: 10px;" />
 </a>
 
