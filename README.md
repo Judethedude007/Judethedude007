@@ -76,7 +76,9 @@
 
 ### 🌐 Web Technologies  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,nodejs&theme=dark&perline=6" alt="Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,nodejs,firebase&theme=dark&perline=8" alt="Web Technologies" />
+  <br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
 
 ### 📱 Frameworks & Mobile
@@ -85,13 +87,34 @@
 </div>
 
 ### 🔧 Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,visualstudio,linux,supabase&theme=dark&perline=7" alt="Tools & Platforms" />
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,visualstudio,linux,ubuntu,arch,docker,kubernetes,supabase,neo4j&theme=dark" height="50"/>
+
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="50"/>
+
 </div>
 
 ### 🎨 Design & Others
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,firebase&theme=dark&perline=4" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,firebase,notion&theme=dark&perline=5" alt="Design Tools" />
+</div>
+
+---
+
+### 🤖 AI / LLM & DevOps Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark&perline=6" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge" />
 </div>
 
 </div>
@@ -99,7 +122,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:EC4899&height=2&section=header&reversal=false&textBg=false" width="100%" />
 </div>
-
 ---
 
 ## 📈 GitHub Analytics
