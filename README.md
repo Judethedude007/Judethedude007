@@ -22,6 +22,9 @@
 - 🎯 Real-world problem solving
 - 💻 Full-stack development
 - 📱 Mobile app development
+- 🤖 AI & LLM integration (Ollama, HuggingFace, local LLMs)
+- 🧠 Knowledge graphs & vector databases (Neo4j)
+- ☁️ Cloud & DevOps (Docker, Kubernetes, Render)
 
 <br clear="both"/>
 
@@ -222,18 +225,19 @@
 
 ```javascript
 const JudeThomas = {
-    currentFocus: ["Embedded Systems", "Full Stack Development", "Mobile Apps"],
+    currentFocus: ["Embedded Systems", "Full Stack Development", "Mobile Apps", "AI & LLM Integration"],
     techStack: {
         embedded: ["Arduino", "ESP32", "C/C++"],
         web: ["React", "Express.js", "Node.js", "TailwindCSS"],
         mobile: ["Flutter", "Dart"],
         backend: [".NET", "C#", "Python"],
-        databases: ["Supabase", "Firebase"],
-        tools: ["Git", "VS Code", "Visual Studio", "Linux", "DaVinci Resolve"]
+        databases: ["Supabase", "Firebase", "Neo4j"],
+        ai: ["Ollama", "HuggingFace", "Local LLMs", "RAG Pipelines"],
+        tools: ["Git", "VS Code", "Visual Studio", "Linux", "Docker", "Kubernetes", "DaVinci Resolve"]
     },
-    currentlyLearning: ["Advanced React Patterns", "IoT Integration", "Cloud Architecture"],
-    askMeAbout: ["Embedded Systems", "Web Development", "Hardware-Software Integration"],
-    funFact: "I can debug hardware and software issues equally well! 🔧💻"
+    currentlyLearning: ["LLM Fine-tuning", "RAG & Agentic AI", "IoT Integration", "Cloud Architecture"],
+    askMeAbout: ["Embedded Systems", "Web Development", "Hardware-Software Integration", "LLMs & AI Tooling"],
+    funFact: "I can debug hardware, software, and AI pipelines equally well! 🔧💻🤖"
 };
 ```
 
