@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 > *Tech & Electronics Systems Developer*  
-> Third-year engineering student at *CUSAT* passionate about building real-world projects.
+> Fourth-year engineering student at *CUSAT* passionate about building real-world projects.
 
 🔥 **Focus Areas:**
 - 🔧 Embedded systems development
